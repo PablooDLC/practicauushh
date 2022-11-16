@@ -5,5 +5,3 @@
 * Daredevil
 * Aquaman
 * Mujer Maravilla
-* Linterna Verde
-* Robinn
